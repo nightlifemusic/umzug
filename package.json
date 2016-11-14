@@ -22,7 +22,7 @@
     "mocha": "^3.0.1",
     "sequelize": "^3.13.0",
     "sinon": "^1.11.1",
-    "sqlite3": "^3.0.2",
+    "sqlite3": "^3.1.5",
     "yargs": "^5.0.0"
   },
   "scripts": {
